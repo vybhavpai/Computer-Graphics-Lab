@@ -1,7 +1,7 @@
 #include <GL/glut.h>
 #include <stdio.h>
 #include <stdlib.h>
-
+//adding comment to remove the prvious commits
 float xc,yc,r;
 float h = 0.0;
 float delta = 10;
